@@ -1,5 +1,4 @@
 {
-  "homepage": "https://nvthuong6998.github.io/admin",
   "name": "admin3",
   "version": "0.1.0",
   "private": true,
@@ -18,8 +17,6 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "server": "json-server --watch db.json --port 5000",
     "build": "react-scripts build",
