@@ -1,0 +1,338 @@
+{
+  "posts": [
+    {
+      "name": "1",
+      "title": "Thông báo cuối năm",
+      "author": "Nhận thưởng tết 2021",
+      "id": "fAWYZbK"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn Thương",
+      "email": "nvthuong.17it2@vku.udn.vn",
+      "address": {
+        "street": "40 Nguyễn Tạo, phường Hòa Hải, quận Ngũ Hành Sơn, TP Đà Nẵng"
+      },
+      "phone": "0868821267",
+      "company": {
+        "name": "BT-STORE"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "price": "$9999",
+      "title": "64G4",
+      "description": "",
+      "img": {
+        "rawFile": {
+          "path": "IMG_5622.JPG"
+        },
+        "img": "blob:http://localhost:3000/1a13266b-ba24-4293-9b51-29c40181c6c1"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Iphone",
+      "price": "$1000",
+      "title": "64G4",
+      "description": "",
+      "img": "https://thumbnail.imgbin.com/17/9/24/imgbin-doraemon-cartoon-drawing-animated-film-doraemon-doreamon-illustration-wXQDxygyY2b8G3SUT0TSPykFH_t.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "type": [
+    {
+      "id": 1,
+      "name": "Iphone"
+    },
+    {
+      "id": 2,
+      "name": "Ipad"
+    },
+    {
+      "id": 3,
+      "name": "Macbook"
+    }
+  ],
+  "iphone": [
+    {
+      "name": "iPhone 12",
+      "price": "$250",
+      "title": "iPhone",
+      "description": "Get up to $250 off with Apple Trade In*",
+      "id": 2,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2020?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1604343709000"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": "$999",
+      "title": "iPhone 12 Pro",
+      "description": "Get up to $370 off with Apple Trade In*",
+      "id": 3,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2020?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1604343709000"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "White",
+      "id": 4,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-white-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566956148115"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "Black",
+      "id": 5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566956144418"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "Green",
+      "id": 6,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-green-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566956144838"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "Yellow",
+      "id": 7,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-yellow-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1568141245782"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "Purple",
+      "id": 8,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-purple-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566960958082"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "$599 ",
+      "title": "iPhone 11",
+      "description": "Red",
+      "id": 9,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-red-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566956144763"
+    },
+    {
+      "name": "iPhone SE",
+      "price": "$399",
+      "title": "iPhone SE",
+      "description": "White",
+      "id": 10,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1586574259457"
+    },
+    {
+      "name": "iPhone SE",
+      "price": "$399",
+      "title": "iPhone SE",
+      "description": "Black",
+      "id": 11,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-black-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1586574260051"
+    },
+    {
+      "name": "iPhone SE",
+      "price": "$399",
+      "title": "iPhone SE",
+      "description": "Red",
+      "id": 12,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1586574260319"
+    }
+  ],
+  "ipad": [
+    {
+      "name": "iPad Air",
+      "price": "599",
+      "title": "iPad Air",
+      "description": "Space Gray",
+      "id": 2,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650646000"
+    },
+    {
+      "name": "iPad Air",
+      "price": "$599 ",
+      "title": "iPad Air",
+      "description": "Sliver",
+      "id": 3,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-silver-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650645000"
+    },
+    {
+      "name": "iPad Air",
+      "title": "iPad Air",
+      "price": "$599 ",
+      "description": "Rose Gold",
+      "id": 4,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-gold-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000"
+    },
+    {
+      "name": "iPad Air",
+      "price": "$599 ",
+      "title": "iPad Air",
+      "description": "Green",
+      "id": 5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000"
+    },
+    {
+      "name": "iPad Air",
+      "price": "$599 ",
+      "title": "iPad Air",
+      "description": "Sky Blue",
+      "id": 6,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-blue-202009?wid=470&hei=556&fmt=png-alpha&.v=1598650644000"
+    },
+    {
+      "name": "iPad Pro",
+      "price": "$799",
+      "title": "iPad Pro",
+      "id": 7,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-11-select-202003?wid=445&hei=550&fmt=jpeg&qlt=95&op_usm=0.5%2C0.5&.v=1583430767182"
+    }
+  ],
+  "mac": [
+    {
+      "name": "13-inch MacBook Air",
+      "price": "$999.00",
+      "description": "Apple M1 Chip with 8‑Core CPU and 7‑Core GPU 256GB Storage - Space Gray",
+      "title": "13-inch MacBook Air",
+      "id": 1,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332211000"
+    },
+    {
+      "name": "13-inch MacBook Air",
+      "title": "13-inch MacBook Air",
+      "price": "$999.00",
+      "description": "Apple M1 Chip with 8‑Core CPU and 7‑Core GPU\n256GB Storage - Gold",
+      "id": 2,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332211000"
+    },
+    {
+      "name": "13-inch MacBook Air",
+      "title": "13-inch MacBook Air",
+      "price": "$999.00",
+      "description": "Apple M1 Chip with 8‑Core CPU and 7‑Core GPU\n256GB Storage - Silver",
+      "id": 3,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-silver-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332212000"
+    },
+    {
+      "name": "13-inch MacBook Air",
+      "title": "13-inch MacBook Air",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU\n512GB Storage - Space Gray",
+      "price": "$1,249.00",
+      "id": 4,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332211000"
+    },
+    {
+      "name": "13-inch MacBook Air",
+      "title": "13-inch MacBook Air",
+      "price": "$1,249.00",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU\n512GB Storage - Gold",
+      "id": 5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332211000"
+    },
+    {
+      "name": "13-inch MacBook Air",
+      "title": "13-inch MacBook Air",
+      "price": "$1,249.00",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU\n512GB Storage",
+      "id": 6,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-silver-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603332212000"
+    },
+    {
+      "name": "MacBook Pro.",
+      "title": "MacBook Pro 13-inch",
+      "price": "$1,299.00",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU\n256GB Storage - Space Gray",
+      "id": 7,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603406905000"
+    },
+    {
+      "name": "MacBook Pro 13-inch",
+      "title": "MacBook Pro 13-inch",
+      "price": "$1,299.00",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU256GB Storage - Silver",
+      "id": 8,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-silver-select-202011?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603406899000"
+    },
+    {
+      "name": "MacBook Pro 13-inch",
+      "price": "$1,499.00",
+      "title": "MacBook Pro 13-inch",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU512GB Storage - Space Gray",
+      "id": 9,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603406905000"
+    },
+    {
+      "name": "MacBook Pro 13-inch",
+      "title": "MacBook Pro 13-inch",
+      "price": "$1,499.00",
+      "description": "Apple M1 Chip with 8-Core CPU and 8-Core GPU\n512GB Storage - Silver",
+      "id": 10,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-silver-select-202011?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1603406899000"
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "title": "MacBook Pro 16-inch",
+      "price": "$2,399.00",
+      "description": "2.6GHz 6-Core Processor512GB StorageAMD Radeon Pro 5300M - Space Gray",
+      "id": 11,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572825197207"
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "description": "2.6GHz 6-Core Processor\n512GB Storage\nAMD Radeon Pro 5300M - Silver",
+      "price": "$2,399.00",
+      "title": "MacBook Pro 16-inch",
+      "id": 12,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-silver-select-201911?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572825196932"
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "price": "$2,799.00",
+      "description": "2.3GHz 8-Core Processor1TB StorageAMD Radeon Pro 5500M - Space Gray",
+      "title": "MacBook Pro 16-inch",
+      "id": 13,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572825197207"
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "price": "$2,799.00",
+      "title": "MacBook Pro 16-inch",
+      "description": "2.3GHz 8-Core Processor1TB StorageAMD Radeon Pro 5500M - Silver",
+      "id": 14,
+      "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-silver-select-201911?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572825196932"
+    }
+  ],
+  "tv": [
+    {
+      "id": 1,
+      "name": "tv",
+      "price": "tv",
+      "title": "tv",
+      "description": "tv",
+      "img": "tv"
+    }
+  ],
+  "management-order": [
+    {
+      "id": 1,
+      "product": "Iphone 12",
+      "name": "Cristiano Ronaldo",
+      "phone": "113",
+      "address": "40 Le Duan",
+      "price": "$9999"
+    }
+  ]
+}
